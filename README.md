@@ -1,2 +1,2 @@
-# CSS-Multi-Level-Menu
-Pure CSS multi level menu
+# Multi-Level-Menu
+Multi level menu
